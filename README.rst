@@ -5,7 +5,7 @@ CatArmy
 
 
 .. image:: img/thinkingface.png
-   :scale: 40%
+   :scale: 100%
    :height: 200px
    :width: 200px
    :align: left
