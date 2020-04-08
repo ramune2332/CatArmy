@@ -1,5 +1,8 @@
 ﻿
-# CatArmy
+=======
+CatArmy
+=======
+
 
 .. image:: img/thinkingface.png
    :scale: 40%
@@ -7,24 +10,29 @@
    :width: 200px
    :align: left
 
-## Install
+Install
+-------
 
 Comming soon
 
-## Requirements
+Requirements
+------------
 
 Unityほか
 
-## Usage
+Usage
+-----
 
 Comming soon
 
-## License
+License
+-------
 
 このソフトウェアは、（現時点では）MITライセンスで公開しています。詳しくは「LICENSE」を読んでください。
 
 This software is released under the MIT. see also ./LICENSE.
 
-## References
+References
+-------------
 
 Comming soon
